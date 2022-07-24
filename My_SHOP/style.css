@@ -1,0 +1,176 @@
+html
+{
+    font-family: "Roboto";
+    font-size: 20px;
+    background-color:#f6efe9;
+}
+
+body
+{
+    padding: 0; 
+    margin: 0;
+}
+
+button
+{
+background-color:#d91e18;
+color: #f6efe9;
+border: 0;
+cursor: pointer;
+padding: 5px;
+text-align: center;
+margin-top: 5px;
+margin-left: 48%;
+}
+
+.input
+{
+    border: 1px solid black;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+header
+{
+    text-align: center;
+    background-color:#bdc3c7;
+    padding: 10px;
+}
+
+.header h1
+{
+    
+    color:#f7ca18; 
+    margin: 0;
+}
+
+
+
+
+
+   
+
+.button
+{
+    margin-left: 34%;
+}
+
+.form
+{
+   
+    display: inline-block;
+    text-align: center;
+    margin-left: 30%;
+}
+
+
+.Container
+{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.form-a{
+    text-align: left;
+    box-sizing: border-box;
+    color: grey;
+}
+
+table, th, td {
+    
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-color: darkgray;
+    box-sizing: border-box;
+    color: grey;
+
+}
+.users{
+    width: 90%;
+    margin: 0 5%;
+    height: 45%;
+
+}
+.users td, .users th{
+    color: black;
+    padding: 5px;
+}
+.title{
+    margin-top: 3%;
+    margin-left: 5%;
+    color: darkgrey;
+    font-family: cursive;
+}
+.products{
+    height: 25%;
+    width: 90%;
+    margin: 0 5%;
+}
+
+.login2{
+    margin-left: 39%;
+}
+.submit{
+    margin-left: 16%;
+}
+.emaillogin{
+    margin-left: 3%;
+}
+
+.added{
+    margin-left: 40%;
+}
+.priceInput{
+    margin-left: 5.8%;
+}
+.nameInput{
+    margin-left: 5%;
+}
+.liens{
+    font-size: 135%;
+    margin: 4% 18%;
+    font-family: cursive;
+}
+.edituser{
+    color: teal;
+    margin: 9% 39%
+}
+.emailuser{
+    margin-left: 8.7%;
+}
+.admin{
+    margin-left: 6.5%;
+}
+
+.submitUser{
+    margin-left: 45%;
+    color: teal;
+}
+.editProduct{
+    margin: 6% 38%;
+    color: teal;
+}
+h3{
+    font-family: cursive; 
+    color: teal;
+}
+.priceProduct{
+    margin-left: 14%;
+}
+.nameProduct{
+    margin-left: 12%;
+}
+.inputSave{
+    margin-left: 46%;
+    color: teal;
+}
+.form td, .form table{
+    border:none;
+}
+
+.logout-admin{
+    float: right;
+    margin: 10px;
+    font-family: cursive; 
+    color: teal;
+}
